@@ -1,0 +1,3 @@
+greeting:
+  name: Max
+  coffee: ${greeting.name} is drinking Coffee Cereza

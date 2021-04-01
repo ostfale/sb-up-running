@@ -1,5 +1,9 @@
 # Setup
 
+## Online Services
+
++ Planefinder (data retrieval) : https://planefinder.net
+
 ## httpie
 
 Needs python to be installed (pip) in powershell with admin rights
